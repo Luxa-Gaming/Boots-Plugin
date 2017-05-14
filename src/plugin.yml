@@ -1,0 +1,7 @@
+main: de.luxa.main.Main
+version: 1.0
+name: Boots
+
+commands:
+     setboottrader:
+          description: Setzte eine TradeHexe
